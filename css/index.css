@@ -1,0 +1,103 @@
+body {
+    background-color: #0d0101;
+    max-width: 980px;
+    margin: auto;
+}
+
+header h1 {
+    margin: 10px;
+    color: #d8b8b8;
+}
+
+.nav.nav-pills {
+    border-radius: 4px;
+    background-color:#1b0909;
+    color: white;
+}
+
+.flex-sm-fill {
+    color: white;
+}
+
+main {
+    margin: 30px;
+}
+
+.poster {
+    width: 300px;
+    margin: 20px;
+    color: wheat;
+}
+
+.info_film {
+    color: white;
+    margin: 10px 1px 1px 20px;
+}
+
+.film_main {
+    background-color: #1b0909;
+    border-radius: 4px;
+    margin: 10px;
+}
+
+h2 {
+    text-align: center;
+    background-color: #1b0909;
+    color: white;
+    border-radius: 4px;
+
+}
+
+h3 {
+    color: white;
+    margin: 10px 1px 1px 20px;
+}
+
+.film_video {
+    max-width: 600px;
+    margin: 10px 1px 1px 20px;
+    display: flex;
+    flex: 300px;
+}
+
+img {
+    border-radius: 4px;
+    margin: 5px;
+}
+
+.card {
+    border: none;
+    background-color: #1b0909;
+}
+
+.btn {
+    margin: auto;
+    background-color: #310e0e;
+    border: none;
+}
+
+
+section .registration {
+    margin: 10px 100px;
+}
+
+section h1 {
+    color: white;
+}
+
+section .registration_form {
+    color: white;
+}
+
+section .registration_submit {
+    margin: 5px 5px 5px 400px;
+}
+
+
+section input {
+    margin: 5px 5px 5px 32px ;
+}
+
+section .third-form {
+    margin: 5px 5px 5px 20px;
+}
